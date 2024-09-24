@@ -1,3 +1,13 @@
+/*
+Justine Afaga 
+ICS 314 
+Professor Chad Morita 
+E19: Experience Functional Programming (Part 3)
+September 23th, 2024 
+Time: 16:44
+**used ChatGPT on this one**
+*/
+
 function zipList(list1: any[], list2: any[]): any[] {
     const result: any[] = [];
     for (let i = 0; i < list1.length; i++) {
